@@ -1,7 +1,0 @@
-
-cd package/
-svn export --force  https://www.npmjs.com/package/nodemon
-cd package/nodemon12/adf/
-svn export --force  https://www.npmjs.com/package/nodemon12/adf/wer
- 
- ***** 2 urls processed *****
